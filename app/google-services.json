@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367308662207",
+    "project_id": "psicofbase",
+    "storage_bucket": "psicofbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367308662207:android:8f7e20b26d6e1ed1d0ad0a",
+        "android_client_info": {
+          "package_name": "up.edu.psicofbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367308662207-h6a67ndfkkd0stht4ht8dhjvo9gm4rf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwFAtCPlW0-k2unXngttvjsONTQ7FoAGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367308662207-h6a67ndfkkd0stht4ht8dhjvo9gm4rf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
